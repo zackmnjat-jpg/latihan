@@ -1,4 +1,4 @@
 baris 1
 baris 2
 baris 4
-baris 6
+baris 5
